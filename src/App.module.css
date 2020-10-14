@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  background-color:#2f2f36;
+  padding:100px;
+}
+
+
+.mainBlock {
+  border: 2px solid #5ed5fa;
+  border-radius: 10px;
+  width: 400px;
+  height: 285px;
+  margin: 0 auto 0 auto;
+  padding:10px;
+}
+
+.displayBlock {
+  background-color:  #5ed5fa;
+  border-radius: 10px;
+  color:#2f2f36;
+  padding:20px 10px;
+  margin-bottom: 20px;
+  font-family:Monospace;
+  font-size:86px;
+  line-height: 100px;
+  font-weight:bold;
+}
+
+.maxDisplayBlock {
+  background-color:  #5ed5fa;
+  border-radius: 10px;
+  color:red;
+  padding:20px 10px;
+  margin-bottom: 20px;
+  font-family:Monospace;
+  font-size:86px;
+  line-height: 100px;
+  font-weight:bold;
+}
+
+.buttonsBlock {
+  border-radius: 10px;
+  border: 2px solid #5ed5fa;
+  padding: 10px 0;
+}
+
+.buttonsBlock button{
+  border-radius: 10px;
+  padding:10px 20px;
+  margin:10px;
+  border: none;
+  font-family:monospace;
+  font-size:48px;
+  font-weight:bold;
+  color: #2f2f36;
+}
+.buttonInc {
+  background-color:#5ed5fa;
+}
+.buttonReset {
+  background-color:#5ed5fa;
+}
+.disabledButtonInc {
+  background-color: #5c7982;
+}
+.disabledButtonReset{
+  background-color:#5c7982;
+}
